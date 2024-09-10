@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brian\\RPG Udemy Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|c:\\users\\brian\\rpg udemy course\\assets\\playerprimaryattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|solutionrelative:assets\\playerprimaryattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|C:\\Users\\brian\\RPG Udemy Course\\assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|solutionrelative:assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|C:\\Users\\brian\\RPG Udemy Course\\assets\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|solutionrelative:assets\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|C:\\Users\\brian\\RPG Udemy Course\\assets\\playerdashstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|solutionrelative:assets\\playerdashstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|C:\\Users\\brian\\RPG Udemy Course\\assets\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|solutionrelative:assets\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|C:\\Users\\brian\\RPG Udemy Course\\assets\\playeranimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|solutionrelative:assets\\playeranimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|C:\\Users\\brian\\RPG Udemy Course\\assets\\playergroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|solutionrelative:assets\\playergroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|C:\\Users\\brian\\RPG Udemy Course\\assets\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|solutionrelative:assets\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|C:\\Users\\brian\\RPG Udemy Course\\assets\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|C:\\Users\\brian\\RPG Udemy Course\\assets\\playerwalljumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|solutionrelative:assets\\playerwalljumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|C:\\Users\\brian\\RPG Udemy Course\\assets\\playerwallslidestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|solutionrelative:assets\\playerwallslidestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|C:\\Users\\brian\\RPG Udemy Course\\assets\\playerairstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4E97BB-35FE-B27B-7ADC-B88B32C93A87}|Assembly-CSharp.csproj|solutionrelative:assets\\playerairstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerAnimationTriggers.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerAnimationTriggers.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerAnimationTriggers.cs",
+              "ToolTip": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerAnimationTriggers.cs",
+              "RelativeToolTip": "Assets\\PlayerAnimationTriggers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:56:40.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerIdleState.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerIdleState.cs",
+              "ToolTip": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerIdleState.cs",
+              "RelativeToolTip": "Assets\\PlayerIdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:26:13.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerWallSlideState.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerWallSlideState.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerWallSlideState.cs",
+              "ToolTip": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerWallSlideState.cs",
+              "RelativeToolTip": "Assets\\PlayerWallSlideState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:58:17.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerDashState.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerDashState.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerDashState.cs",
+              "ToolTip": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerDashState.cs",
+              "RelativeToolTip": "Assets\\PlayerDashState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:27:23.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerAirState.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerAirState.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerAirState.cs",
+              "ToolTip": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerAirState.cs",
+              "RelativeToolTip": "Assets\\PlayerAirState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:50:08.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerGroundedState.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerGroundedState.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerGroundedState.cs",
+              "ToolTip": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerGroundedState.cs",
+              "RelativeToolTip": "Assets\\PlayerGroundedState.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:40:30.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Player.cs",
+              "ToolTip": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\Player.cs",
+              "RelativeToolTip": "Assets\\Player.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:48:33.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerState.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerState.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerState.cs",
+              "ToolTip": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerState.cs",
+              "RelativeToolTip": "Assets\\PlayerState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:48:31.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerPrimaryAttackState.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerPrimaryAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerPrimaryAttackState.cs",
+              "ToolTip": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerPrimaryAttackState.cs",
+              "RelativeToolTip": "Assets\\PlayerPrimaryAttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:43:44.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerWallJumpState.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerWallJumpState.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerWallJumpState.cs",
+              "ToolTip": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerWallJumpState.cs",
+              "RelativeToolTip": "Assets\\PlayerWallJumpState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:27:50.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerMoveState.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerMoveState.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMoveState.cs",
+              "ToolTip": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerMoveState.cs",
+              "RelativeToolTip": "Assets\\PlayerMoveState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:40:05.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerStateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerStateMachine.cs",
+              "ToolTip": "C:\\Users\\brian\\RPG Udemy Course\\Assets\\PlayerStateMachine.cs",
+              "RelativeToolTip": "Assets\\PlayerStateMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:42:44.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
